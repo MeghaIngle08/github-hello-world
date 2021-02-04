@@ -1,6 +1,6 @@
 #Addition Functionality
 def add(x,y):
-    pass
+    retrun x+y
 #Substraction Functionality
 def subtract(x,y):
     pass
