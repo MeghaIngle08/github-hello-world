@@ -11,5 +11,9 @@ def subtract(x,y):
 def multiply(x,y):
      retrun x*y
     
-def divide(x,y):
-    retrun x/y
+def divide(x,y) :
+
+    if y==0
+    return divide_by_0_error
+    else
+    x/y
