@@ -7,7 +7,7 @@ def subtract(x,y):
     
 #Multipication Functionality
 def multiply(x,y):
-    pass
+     retrun x*y
     
 def divide(x,y):
     pass
