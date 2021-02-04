@@ -12,4 +12,4 @@ def multiply(x,y):
      retrun x*y
     
 def divide(x,y):
-    pass
+    retrun x/y
